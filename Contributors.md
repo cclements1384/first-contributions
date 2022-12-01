@@ -10,10 +10,10 @@
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [AADI SHARMA@DevsocPI](https://github.com/AadiSharma001)
-aditya bagla
-Reetish Rath
-[Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
-[Pranjay Yelkotwar] @DevSocInductions
+- aditya bagla
+- Reetish Rath
+- [Dhruv Pandey@Devsoc](https://github.com/dhruv12pandey)
+- [Pranjay Yelkotwar] @DevSocInductions
 - [Kshitij Verma@DevsocPI](https://github.com/melon9829)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Sanskar Mundhra@DevsocPI](https://github.com/SunMoon97)
@@ -22,16 +22,14 @@ Reetish Rath
 - Meet Dedhia@DevsocPI
 - aditya joshi@DevSocPI
 - Ezad Haziq Bin Zamily
-
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
-- 
-Yash Rustogi
+- Yash Rustogi
 - [Aryan Bansal @devsocPI]
 - Moksh@DEVSOCPI
 - [Ayush Raj @DevsocPI]. (https://github.com/Aayuraju)
 - [Jatin Gahlot @DevSocPI]
-  [Mustafa-Alwalss]. 
+- [Mustafa-Alwalss]. 
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
 - aumkar@DevsocPI
@@ -92,7 +90,7 @@ Yash Rustogi
 - [Fryz](https://github.com/Fryzzz)
 - [Bhavana Garlapati] (https://github.com/bhavanagarlapati)
 - [Medhansh Kumar] @DevSocPI (https://github.com/medanceee)
-  [Boby Tiwari](https://github.com/Boby900)
+- [Boby Tiwari](https://github.com/Boby900)
 - [Rojon Ali](https://github.com/rojon009)
 - [Melvin Aguilar](https://github.com/MelvinAguilar)
 - [Hein Htet Zaw](https://github.com/Hendrickhz)
@@ -143,7 +141,7 @@ Yash Rustogi
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Rajiv Galgali]
--[VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
+- [VAGEESHA GUPTA@DevsocPI](https://github.com/Forestelf6)
 - [Fvoice](https://github.com/facelessvoice)
 - [Jeffrey Neal](https://github.com/ToastBubbles)
 - [Khant Sithu Zaw](https://github.com/KHANT-SITHUZAW)
@@ -880,8 +878,8 @@ Yash Rustogi
 - [Basant Singh Dobal 👨‍💻](https://github.com/basantsd)
 - [Julia Kuchle](https://github.com/JuliaGK)
 - [Marek Wasilczuk](https://github.com/tw-mwasilczuk)
-<!-- prettier-ignore-end -->
-Ulises Quiñonez
-[Siddharth Thakur]@devsoc pi
+- Ulises Quiñonez
+- [Siddharth Thakur]@devsoc pi
 - [Mayukh Saha@DevsocPI](https://github.com/frozenexplorer)
 - [Chris Clements](https://github.com/cclements1384)
+<!-- prettier-ignore-end -->
